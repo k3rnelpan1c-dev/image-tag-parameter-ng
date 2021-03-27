@@ -1,0 +1,16 @@
+[[]]
+= Image Tag Parameter NG
+:toc-title:
+:toc: macro
+
+image:https://img.shields.io/badge/project%20status-wip-important.svg[link="https://github.com/k3rnelpan1c-dev/image-tag-parameter-ng"]
+image:https://img.shields.io/github/license/k3rnelpan1c-dev/image-tag-parameter-ng.svg?color=green[link="https://github.com/k3rnelpan1c-dev/image-tag-parameter-ng/blob/main/LICENSE"]
+image:https://img.shields.io/maintenance/yes/2021.svg[link="https://github.com/k3rnelpan1c-dev/image-tag-parameter-ng"]
+image:https://img.shields.io/github/contributors/k3rnelpan1c-dev/image-tag-parameter-ng.svg?color=blue[link="https://github.com/k3rnelpan1c-dev/image-tag-parameter-ng/graphs/contributors"]
+
+== Introduction
+Image Tag Parameter NG (Next Generation) is a re-imagination/-implementation of the original link:https://github.com/jenkinsci/image-tag-parameter-plugin[Image Tag Parameter (by maduma)].
+
+toc::[]
+
+== WIP
