@@ -1,0 +1,5 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin is a re-imagination/-implementation of the <a href="https://github.com/jenkinsci/image-tag-parameter-plugin">ImageTagParameter (by maduma)</a><br/>
+  Lets you specify a (container) image to retrieve the tags from and offer as a build parameter.
+</div>
