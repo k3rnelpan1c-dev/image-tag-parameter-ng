@@ -1,4 +1,4 @@
-[[]]
+[[image-tag-parameter-ng]]
 = Image Tag Parameter NG
 :toc-title:
 :toc: macro
@@ -10,6 +10,9 @@ image:https://img.shields.io/github/contributors/k3rnelpan1c-dev/image-tag-param
 
 == Introduction
 Image Tag Parameter NG (Next Generation) is a re-imagination/-implementation of the original link:https://github.com/jenkinsci/image-tag-parameter-plugin[Image Tag Parameter (by maduma)].
+To answer why I did not simply add to that project, I wanted to try writing a Kotlin based Jenkins plugin and rewriting a plugin completely and getting your PR merged seemed impossible :wink:.
+
+Based on this the plugins should have feature party (once I am done), with te exception to the language they were written in.
 
 toc::[]
 
